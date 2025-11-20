@@ -1,0 +1,5002 @@
+[
+  {
+    "date": "2023-11-20",
+    "product_id": 23,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 13,
+    "demand": 31
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 22,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 10,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 20,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 15,
+    "demand": 35
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 6,
+    "demand": 34
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 16,
+    "demand": 33
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 5,
+    "demand": 62
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 18,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 4,
+    "demand": 35
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 17,
+    "demand": 3
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 14,
+    "demand": 23
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 19,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 8,
+    "demand": 64
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 11,
+    "demand": 26
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 12,
+    "demand": 44
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 24,
+    "demand": 19
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 3,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 28,
+    "demand": 20
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 1,
+    "demand": 54
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 9,
+    "demand": 9
+  },
+  {
+    "date": "2023-11-20",
+    "product_id": 25,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 28,
+    "demand": 9
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 6,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 24,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 26,
+    "demand": 16
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 17,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 16,
+    "demand": 24
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 27,
+    "demand": 12
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 25,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 4,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 1,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 3,
+    "demand": 18
+  },
+  {
+    "date": "2023-11-21",
+    "product_id": 15,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 24,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 3,
+    "demand": 32
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 4,
+    "demand": 23
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 14,
+    "demand": 34
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 12,
+    "demand": 43
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 10,
+    "demand": 19
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 26,
+    "demand": 9
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 13,
+    "demand": 24
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 27,
+    "demand": 7
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 5,
+    "demand": 24
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 20,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 23,
+    "demand": 28
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 2,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 25,
+    "demand": 7
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-22",
+    "product_id": 28,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 22,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 9,
+    "demand": 16
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 24,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 25,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 13,
+    "demand": 94
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 16,
+    "demand": 38
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 18,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 3,
+    "demand": 46
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 23,
+    "demand": 12
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 27,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 20,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 7,
+    "demand": 31
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 5,
+    "demand": 62
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 15,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 12,
+    "demand": 105
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 8,
+    "demand": 82
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 2,
+    "demand": 39
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 21,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 28,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 19,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 1,
+    "demand": 57
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 4,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 11,
+    "demand": 22
+  },
+  {
+    "date": "2023-11-23",
+    "product_id": 26,
+    "demand": 12
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 15,
+    "demand": 25
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 20,
+    "demand": 12
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 2,
+    "demand": 24
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 16,
+    "demand": 76
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 10,
+    "demand": 17
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 18,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 6,
+    "demand": 30
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 5,
+    "demand": 22
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 19,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 26,
+    "demand": 36
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 8,
+    "demand": 73
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 1,
+    "demand": 47
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 14,
+    "demand": 36
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 7,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 27,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 13,
+    "demand": 31
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 4,
+    "demand": 16
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 3,
+    "demand": 19
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 23,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-24",
+    "product_id": 21,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 14,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 6,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 11,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 1,
+    "demand": 17
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 16,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-25",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2023-11-26",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2023-11-26",
+    "product_id": 3,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-26",
+    "product_id": 11,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 8,
+    "demand": 22
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 1,
+    "demand": 32
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 25,
+    "demand": 9
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 19,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 12,
+    "demand": 51
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 15,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 23,
+    "demand": 16
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 28,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 24,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 22,
+    "demand": 7
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 7,
+    "demand": 15
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 4,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 26,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-27",
+    "product_id": 13,
+    "demand": 32
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 11,
+    "demand": 37
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 20,
+    "demand": 6
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 28,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 10,
+    "demand": 30
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 26,
+    "demand": 34
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 14,
+    "demand": 33
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 13,
+    "demand": 61
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 12,
+    "demand": 25
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 23,
+    "demand": 38
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 24,
+    "demand": 29
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 3,
+    "demand": 37
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 15,
+    "demand": 26
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 17,
+    "demand": 16
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 16,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 21,
+    "demand": 9
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 5,
+    "demand": 26
+  },
+  {
+    "date": "2023-11-28",
+    "product_id": 25,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 9,
+    "demand": 17
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 23,
+    "demand": 19
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 1,
+    "demand": 35
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 19,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 13,
+    "demand": 20
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 3,
+    "demand": 26
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 16,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 14,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 25,
+    "demand": 10
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 20,
+    "demand": 5
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 6,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 24,
+    "demand": 13
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 28,
+    "demand": 14
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 18,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-29",
+    "product_id": 12,
+    "demand": 23
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 24,
+    "demand": 27
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 28,
+    "demand": 7
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 14,
+    "demand": 25
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 1,
+    "demand": 82
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 23,
+    "demand": 26
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 21,
+    "demand": 22
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 8,
+    "demand": 80
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 5,
+    "demand": 62
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 13,
+    "demand": 56
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 27,
+    "demand": 32
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 4,
+    "demand": 22
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 3,
+    "demand": 32
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 2,
+    "demand": 36
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 12,
+    "demand": 21
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 7,
+    "demand": 36
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 15,
+    "demand": 31
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 11,
+    "demand": 37
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 20,
+    "demand": 8
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 16,
+    "demand": 21
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 6,
+    "demand": 11
+  },
+  {
+    "date": "2023-11-30",
+    "product_id": 10,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 1,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 13,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 28,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 2,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 27,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 10,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 18,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 8,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 26,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-01",
+    "product_id": 7,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-02",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-02",
+    "product_id": 14,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-02",
+    "product_id": 4,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-02",
+    "product_id": 25,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 9,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 12,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 13,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 3,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 5,
+    "demand": 36
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 20,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 24,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 16,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 27,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 11,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 2,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-03",
+    "product_id": 14,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 25,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 24,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 1,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 11,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 12,
+    "demand": 60
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 7,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 8,
+    "demand": 69
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 13,
+    "demand": 58
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 2,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 19,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 9,
+    "demand": 44
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 18,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 17,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 3,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 21,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 27,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 28,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 14,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-04",
+    "product_id": 6,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 5,
+    "demand": 41
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 27,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 12,
+    "demand": 122
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 17,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 19,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 9,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 16,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 23,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 8,
+    "demand": 58
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 14,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 4,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 18,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 6,
+    "demand": 29
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 7,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 28,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 21,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-05",
+    "product_id": 15,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 17,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 28,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 16,
+    "demand": 55
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 9,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 5,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 13,
+    "demand": 48
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 8,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 21,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 20,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 26,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 3,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 1,
+    "demand": 33
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 11,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-06",
+    "product_id": 7,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 16,
+    "demand": 82
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 12,
+    "demand": 61
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 17,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 19,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 14,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 6,
+    "demand": 39
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 22,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 11,
+    "demand": 51
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 25,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 3,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 27,
+    "demand": 23
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 1,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 18,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 24,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 13,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 28,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-07",
+    "product_id": 2,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 22,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 9,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 18,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 16,
+    "demand": 37
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 25,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 21,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 28,
+    "demand": 23
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 8,
+    "demand": 37
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 6,
+    "demand": 86
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 5,
+    "demand": 40
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 7,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 10,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 24,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 4,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 27,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 14,
+    "demand": 28
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 13,
+    "demand": 38
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 26,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 20,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 11,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-08",
+    "product_id": 12,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 27,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 23,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 24,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-09",
+    "product_id": 5,
+    "demand": 21
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 9,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 5,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 1,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 22,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 8,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 2,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 7,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-10",
+    "product_id": 12,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 21,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 2,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 13,
+    "demand": 51
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 24,
+    "demand": 38
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 3,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 14,
+    "demand": 30
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 23,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 17,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 27,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 9,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 25,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 11,
+    "demand": 57
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 8,
+    "demand": 29
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 5,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-11",
+    "product_id": 6,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 15,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 23,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 6,
+    "demand": 48
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 7,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 16,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 25,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 19,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 17,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 8,
+    "demand": 29
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 13,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 10,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 11,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 26,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 2,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-12",
+    "product_id": 18,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 22,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 9,
+    "demand": 38
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 10,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 17,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 12,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 15,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 25,
+    "demand": 28
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 6,
+    "demand": 47
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 8,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 1,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 26,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 16,
+    "demand": 28
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 14,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-13",
+    "product_id": 13,
+    "demand": 29
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 2,
+    "demand": 30
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 10,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 17,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 5,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 21,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 26,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 12,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 24,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 6,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 15,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 19,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 23,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 20,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 1,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-14",
+    "product_id": 28,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 1,
+    "demand": 110
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 21,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 23,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 6,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 28,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 10,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 8,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 2,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 9,
+    "demand": 37
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 7,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 12,
+    "demand": 39
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 24,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-15",
+    "product_id": 5,
+    "demand": 42
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 6,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 3,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 12,
+    "demand": 35
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 21,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 23,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-16",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 8,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 14,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 26,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 27,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 6,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 1,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-17",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 13,
+    "demand": 48
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 16,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 10,
+    "demand": 33
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 21,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 15,
+    "demand": 37
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 11,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 28,
+    "demand": 21
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 3,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 26,
+    "demand": 67
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 25,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 8,
+    "demand": 49
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 5,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 2,
+    "demand": 36
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 27,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 1,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 12,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 4,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 23,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 20,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 9,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 18,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-18",
+    "product_id": 6,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 25,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 3,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 8,
+    "demand": 28
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 16,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 23,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 9,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 17,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 21,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 11,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-19",
+    "product_id": 13,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 25,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 18,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 16,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 23,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 26,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 28,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-20",
+    "product_id": 10,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 23,
+    "demand": 43
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 19,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 17,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 5,
+    "demand": 56
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 28,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 9,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 10,
+    "demand": 42
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 15,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 2,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 8,
+    "demand": 110
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 4,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 21,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 13,
+    "demand": 33
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 11,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 25,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 1,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-21",
+    "product_id": 14,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 1,
+    "demand": 98
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 10,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 28,
+    "demand": 37
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 9,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 16,
+    "demand": 41
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 2,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 15,
+    "demand": 47
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 17,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 21,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 7,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 24,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 25,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 14,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 3,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 13,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 19,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 12,
+    "demand": 39
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 23,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 27,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 8,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 26,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-22",
+    "product_id": 18,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-23",
+    "product_id": 2,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-23",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-23",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-23",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-23",
+    "product_id": 24,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-24",
+    "product_id": 3,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-24",
+    "product_id": 14,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-24",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-24",
+    "product_id": 6,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-24",
+    "product_id": 13,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 19,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 16,
+    "demand": 27
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 1,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 17,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 5,
+    "demand": 41
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 27,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 6,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 24,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-25",
+    "product_id": 25,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 22,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 10,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 15,
+    "demand": 32
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 14,
+    "demand": 48
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 5,
+    "demand": 64
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 8,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 7,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 23,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 21,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 28,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 20,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 3,
+    "demand": 41
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 12,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 9,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 16,
+    "demand": 30
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 27,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 2,
+    "demand": 41
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 26,
+    "demand": 19
+  },
+  {
+    "date": "2023-12-26",
+    "product_id": 6,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 7,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 10,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 19,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 16,
+    "demand": 90
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 23,
+    "demand": 38
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 28,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 8,
+    "demand": 42
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 18,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 24,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 25,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 20,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 15,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 2,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 11,
+    "demand": 28
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 5,
+    "demand": 32
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 3,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 13,
+    "demand": 32
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 12,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 14,
+    "demand": 24
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 9,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 27,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 21,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 26,
+    "demand": 21
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 17,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-27",
+    "product_id": 4,
+    "demand": 39
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 4,
+    "demand": 45
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 11,
+    "demand": 32
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 26,
+    "demand": 35
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 14,
+    "demand": 92
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 27,
+    "demand": 20
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 15,
+    "demand": 42
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 3,
+    "demand": 48
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 6,
+    "demand": 103
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 2,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 16,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 7,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 28,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 1,
+    "demand": 54
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 13,
+    "demand": 31
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 12,
+    "demand": 56
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 25,
+    "demand": 34
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 8,
+    "demand": 52
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 10,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 17,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-28",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 3,
+    "demand": 14
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 11,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 4,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 7,
+    "demand": 6
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 18,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 16,
+    "demand": 42
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 25,
+    "demand": 26
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 10,
+    "demand": 5
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 12,
+    "demand": 22
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 9,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 17,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 24,
+    "demand": 12
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 13,
+    "demand": 13
+  },
+  {
+    "date": "2023-12-29",
+    "product_id": 23,
+    "demand": 15
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 9,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 3,
+    "demand": 10
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 2,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 15,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 5,
+    "demand": 18
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 24,
+    "demand": 8
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 20,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-30",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 11,
+    "demand": 11
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 6,
+    "demand": 16
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 14,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 23,
+    "demand": 17
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 2,
+    "demand": 25
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 27,
+    "demand": 9
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 13,
+    "demand": 7
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 20,
+    "demand": 2
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 15,
+    "demand": 4
+  },
+  {
+    "date": "2023-12-31",
+    "product_id": 10,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 13,
+    "demand": 24
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 8,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 24,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 16,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 10,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 3,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 19,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 25,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 15,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-01",
+    "product_id": 12,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 19,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 17,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 22,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 23,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 2,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 10,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 11,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 15,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 8,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 9,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 21,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 6,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 3,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-02",
+    "product_id": 5,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 9,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 5,
+    "demand": 30
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 10,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 3,
+    "demand": 21
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 14,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 21,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 12,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 24,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 16,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 2,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 15,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 28,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 27,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 26,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 7,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 4,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-03",
+    "product_id": 6,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 6,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 27,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 13,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 10,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 3,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 1,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 2,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 16,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 14,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 24,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-04",
+    "product_id": 8,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 4,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 15,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 12,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 23,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 13,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 16,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-05",
+    "product_id": 7,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 16,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 14,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 9,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 11,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 12,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 15,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-06",
+    "product_id": 1,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 5,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 4,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 27,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 1,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 14,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 12,
+    "demand": 19
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 24,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 23,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-07",
+    "product_id": 9,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 1,
+    "demand": 24
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 12,
+    "demand": 45
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 22,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 26,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 2,
+    "demand": 23
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 9,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 23,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 14,
+    "demand": 22
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 27,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 4,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 21,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 5,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 3,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 24,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 16,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 17,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 7,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 28,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 15,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-08",
+    "product_id": 11,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 20,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 19,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 16,
+    "demand": 20
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 1,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 24,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 25,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 12,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 17,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 26,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 5,
+    "demand": 61
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 6,
+    "demand": 33
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 7,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 8,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 23,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 28,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 9,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 27,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 10,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 3,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-09",
+    "product_id": 14,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 13,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 5,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 21,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 8,
+    "demand": 25
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 11,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 18,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 25,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 22,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 15,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 19,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 26,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 16,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 24,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 9,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 4,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 14,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 28,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-10",
+    "product_id": 7,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 15,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 28,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 19,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 6,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 20,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 4,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 27,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 8,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 16,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 5,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 10,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 11,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 12,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 21,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-11",
+    "product_id": 7,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 28,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 24,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 26,
+    "demand": 21
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 20,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 23,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 27,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 13,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 25,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 3,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 11,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 8,
+    "demand": 24
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 5,
+    "demand": 20
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 22,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 7,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 2,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 15,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-12",
+    "product_id": 12,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 16,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 12,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 2,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 17,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 4,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 20,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 11,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-13",
+    "product_id": 8,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 24,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 1,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 27,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 2,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 6,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-14",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 27,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 10,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 3,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 20,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 15,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 7,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 23,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 11,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 9,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-15",
+    "product_id": 8,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 14,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 16,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 15,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 1,
+    "demand": 27
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 4,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 20,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 24,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 11,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 19,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 28,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 6,
+    "demand": 22
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 8,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 13,
+    "demand": 31
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 21,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 2,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 25,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 10,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-16",
+    "product_id": 23,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 8,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 16,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 10,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 25,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 2,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 13,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 3,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 9,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 27,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 15,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-17",
+    "product_id": 23,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 6,
+    "demand": 13
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 7,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 20,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 25,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 11,
+    "demand": 26
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 3,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 16,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 12,
+    "demand": 46
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 4,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 28,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 15,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 10,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 5,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 19,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-18",
+    "product_id": 23,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 22,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 1,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 15,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 10,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 6,
+    "demand": 47
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 2,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 16,
+    "demand": 26
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 19,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 27,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 12,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 14,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 3,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 26,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 8,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-19",
+    "product_id": 11,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-20",
+    "product_id": 7,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-20",
+    "product_id": 11,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-20",
+    "product_id": 4,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 12,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 7,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 24,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 6,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 14,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 5,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 20,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 25,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-21",
+    "product_id": 27,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 14,
+    "demand": 41
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 8,
+    "demand": 32
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 11,
+    "demand": 22
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 16,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 24,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 10,
+    "demand": 20
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 17,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 6,
+    "demand": 37
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 12,
+    "demand": 38
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 5,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 26,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 18,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 15,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 25,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 3,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-22",
+    "product_id": 20,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 17,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 25,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 19,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 12,
+    "demand": 49
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 23,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 7,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 1,
+    "demand": 37
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 27,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 28,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 6,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 8,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 11,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 13,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 14,
+    "demand": 31
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 4,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 9,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 2,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 18,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 24,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 22,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 5,
+    "demand": 20
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 16,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-23",
+    "product_id": 26,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 21,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 14,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 3,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 1,
+    "demand": 25
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 28,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 7,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 13,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 8,
+    "demand": 29
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 2,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 5,
+    "demand": 42
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 17,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 25,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 10,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 4,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 22,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 11,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 24,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 20,
+    "demand": 3
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 27,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 26,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 9,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 12,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 6,
+    "demand": 19
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 15,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-24",
+    "product_id": 16,
+    "demand": 5
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 8,
+    "demand": 41
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 4,
+    "demand": 15
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 6,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 20,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 18,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 14,
+    "demand": 14
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 11,
+    "demand": 11
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 25,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 24,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 26,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 16,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 1,
+    "demand": 10
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 21,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 3,
+    "demand": 9
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 10,
+    "demand": 4
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 27,
+    "demand": 6
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 22,
+    "demand": 2
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 9,
+    "demand": 16
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 5,
+    "demand": 12
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 19,
+    "demand": 1
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 12,
+    "demand": 7
+  },
+  {
+    "date": "2024-01-25",
+    "product_id": 23,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 7,
+    "demand": 18
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 27,
+    "demand": 17
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 14,
+    "demand": 19
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 1,
+    "demand": 8
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 24,
+    "demand": 23
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 8,
+    "demand": 20
+  },
+  {
+    "date": "2024-01-26",
+    "product_id": 5,
+    "demand": 12
+  }
+]

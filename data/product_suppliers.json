@@ -1,0 +1,268 @@
+[
+  {
+    "product_id": 1,
+    "supplier_id": 1,
+    "lead_time_days": 9,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 2,
+    "supplier_id": 1,
+    "lead_time_days": 4,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 3,
+    "supplier_id": 1,
+    "lead_time_days": 9,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 3,
+    "supplier_id": 4,
+    "lead_time_days": 12,
+    "minimum_order_quantity": 100,
+    "is_primary": false
+  },
+  {
+    "product_id": 4,
+    "supplier_id": 1,
+    "lead_time_days": 7,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 5,
+    "supplier_id": 1,
+    "lead_time_days": 5,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 5,
+    "supplier_id": 2,
+    "lead_time_days": 10,
+    "minimum_order_quantity": 50,
+    "is_primary": false
+  },
+  {
+    "product_id": 6,
+    "supplier_id": 1,
+    "lead_time_days": 13,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 6,
+    "supplier_id": 3,
+    "lead_time_days": 13,
+    "minimum_order_quantity": 50,
+    "is_primary": false
+  },
+  {
+    "product_id": 7,
+    "supplier_id": 1,
+    "lead_time_days": 10,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 8,
+    "supplier_id": 1,
+    "lead_time_days": 13,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 8,
+    "supplier_id": 4,
+    "lead_time_days": 7,
+    "minimum_order_quantity": 10,
+    "is_primary": false
+  },
+  {
+    "product_id": 9,
+    "supplier_id": 2,
+    "lead_time_days": 8,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 10,
+    "supplier_id": 2,
+    "lead_time_days": 7,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 11,
+    "supplier_id": 2,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 12,
+    "supplier_id": 2,
+    "lead_time_days": 4,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 13,
+    "supplier_id": 2,
+    "lead_time_days": 9,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 13,
+    "supplier_id": 5,
+    "lead_time_days": 7,
+    "minimum_order_quantity": 25,
+    "is_primary": false
+  },
+  {
+    "product_id": 14,
+    "supplier_id": 2,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 15,
+    "supplier_id": 2,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 16,
+    "supplier_id": 2,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 17,
+    "supplier_id": 3,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 100,
+    "is_primary": true
+  },
+  {
+    "product_id": 18,
+    "supplier_id": 3,
+    "lead_time_days": 5,
+    "minimum_order_quantity": 100,
+    "is_primary": true
+  },
+  {
+    "product_id": 19,
+    "supplier_id": 3,
+    "lead_time_days": 10,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 20,
+    "supplier_id": 3,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 20,
+    "supplier_id": 5,
+    "lead_time_days": 12,
+    "minimum_order_quantity": 10,
+    "is_primary": false
+  },
+  {
+    "product_id": 21,
+    "supplier_id": 3,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 21,
+    "supplier_id": 4,
+    "lead_time_days": 8,
+    "minimum_order_quantity": 50,
+    "is_primary": false
+  },
+  {
+    "product_id": 22,
+    "supplier_id": 3,
+    "lead_time_days": 10,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 23,
+    "supplier_id": 4,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 25,
+    "is_primary": true
+  },
+  {
+    "product_id": 23,
+    "supplier_id": 3,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 100,
+    "is_primary": false
+  },
+  {
+    "product_id": 24,
+    "supplier_id": 4,
+    "lead_time_days": 9,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 24,
+    "supplier_id": 1,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 25,
+    "is_primary": false
+  },
+  {
+    "product_id": 25,
+    "supplier_id": 4,
+    "lead_time_days": 13,
+    "minimum_order_quantity": 100,
+    "is_primary": true
+  },
+  {
+    "product_id": 26,
+    "supplier_id": 5,
+    "lead_time_days": 3,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 27,
+    "supplier_id": 5,
+    "lead_time_days": 6,
+    "minimum_order_quantity": 50,
+    "is_primary": true
+  },
+  {
+    "product_id": 28,
+    "supplier_id": 5,
+    "lead_time_days": 13,
+    "minimum_order_quantity": 10,
+    "is_primary": true
+  },
+  {
+    "product_id": 28,
+    "supplier_id": 4,
+    "lead_time_days": 4,
+    "minimum_order_quantity": 25,
+    "is_primary": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "TechSupply Co.",
+    "email": "contact@techsupply.com",
+    "phone": "555-0101"
+  },
+  {
+    "id": 2,
+    "name": "Office Depot Pro",
+    "email": "b2b@officedepot.com",
+    "phone": "555-0102"
+  },
+  {
+    "id": 3,
+    "name": "Furniture Direct",
+    "email": "sales@furnituredirect.com",
+    "phone": "555-0103"
+  },
+  {
+    "id": 4,
+    "name": "Software Solutions Inc",
+    "email": "sales@softwaresolutions.com",
+    "phone": "555-0104"
+  },
+  {
+    "id": 5,
+    "name": "Maintenance Supplies Plus",
+    "email": "orders@msp.com",
+    "phone": "555-0105"
+  }
+]

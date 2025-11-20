@@ -1,0 +1,29 @@
+product_id,sku,name,category,unit_price,cost,description,unit,weight_kg,dimensions
+1,ELE-0001,Wireless Mouse,Electronics,29.99,15.0,High-quality wireless mouse for professional use,piece,6.99,46x54x16cm
+2,ELE-0002,Mechanical Keyboard,Electronics,89.99,45.0,High-quality mechanical keyboard for professional use,piece,10.87,81x47x44cm
+3,ELE-0003,USB-C Cable,Electronics,12.99,5.0,High-quality usb-c cable for professional use,piece,3.62,58x56x15cm
+4,ELE-0004,Laptop Stand,Electronics,49.99,20.0,High-quality laptop stand for professional use,piece,12.03,23x58x40cm
+5,ELE-0005,Webcam HD,Electronics,79.99,35.0,High-quality webcam hd for professional use,piece,11.13,76x36x30cm
+6,ELE-0006,Wireless Headphones,Electronics,129.99,60.0,High-quality wireless headphones for professional use,piece,12.66,67x82x42cm
+7,ELE-0007,Monitor 27 inch,Electronics,299.99,150.0,High-quality monitor 27 inch for professional use,piece,9.91,18x75x12cm
+8,ELE-0008,External SSD 1TB,Electronics,119.99,70.0,High-quality external ssd 1tb for professional use,piece,13.74,30x42x41cm
+9,OFF-0009,Stapler Heavy Duty,Office Supplies,24.99,10.0,High-quality stapler heavy duty for professional use,piece,8.85,53x30x26cm
+10,OFF-0010,Paper Clips Box,Office Supplies,4.99,1.5,High-quality paper clips box for professional use,piece,10.05,82x13x49cm
+11,OFF-0011,Printer Paper A4,Office Supplies,12.99,6.0,High-quality printer paper a4 for professional use,piece,3.36,39x32x33cm
+12,OFF-0012,Binder Clips Assorted,Office Supplies,8.99,3.0,High-quality binder clips assorted for professional use,piece,6.64,88x61x21cm
+13,OFF-0013,Desk Organizer,Office Supplies,19.99,8.0,High-quality desk organizer for professional use,piece,10.43,49x45x36cm
+14,OFF-0014,Whiteboard Marker Set,Office Supplies,14.99,6.0,High-quality whiteboard marker set for professional use,piece,10.35,95x70x22cm
+15,OFF-0015,File Folders Pack,Office Supplies,9.99,4.0,High-quality file folders pack for professional use,piece,11.12,62x43x38cm
+16,OFF-0016,Desk Lamp LED,Office Supplies,34.99,15.0,High-quality desk lamp led for professional use,piece,12.73,33x36x22cm
+17,FUR-0017,Ergonomic Chair,Furniture,299.99,150.0,High-quality ergonomic chair for professional use,piece,8.51,50x64x21cm
+18,FUR-0018,Standing Desk,Furniture,499.99,250.0,High-quality standing desk for professional use,piece,0.54,54x87x43cm
+19,FUR-0019,Monitor Arm,Furniture,89.99,40.0,High-quality monitor arm for professional use,piece,9.6,74x13x13cm
+20,FUR-0020,Desk Mat Large,Furniture,29.99,12.0,High-quality desk mat large for professional use,piece,5.95,43x15x49cm
+21,FUR-0021,Bookshelf 5-Tier,Furniture,149.99,75.0,High-quality bookshelf 5-tier for professional use,piece,3.86,98x31x17cm
+22,FUR-0022,Storage Cabinet,Furniture,199.99,100.0,High-quality storage cabinet for professional use,piece,3.3,64x23x26cm
+23,SOF-0023,Project Management License,Software,99.99,50.0,High-quality project management license for professional use,piece,2.5,81x93x11cm
+24,SOF-0024,Cloud Storage 1TB,Software,9.99,5.0,High-quality cloud storage 1tb for professional use,piece,12.83,40x67x28cm
+25,SOF-0025,Design Software License,Software,199.99,100.0,High-quality design software license for professional use,piece,4.74,47x57x15cm
+26,MAI-0026,Screen Cleaner Kit,Maintenance,12.99,5.0,High-quality screen cleaner kit for professional use,piece,11.88,64x35x45cm
+27,MAI-0027,Keyboard Cleaner,Maintenance,8.99,3.0,High-quality keyboard cleaner for professional use,piece,1.37,80x26x24cm
+28,MAI-0028,Air Duster Can,Maintenance,6.99,2.5,High-quality air duster can for professional use,piece,2.32,34x83x43cm
