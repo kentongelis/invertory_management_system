@@ -1,3 +1,5 @@
-flask
+Flask
+Flask-Cors
+Flask-SQLAlchemy
 python-dotenv
-flask-cors
+sqlalchemy.orm
