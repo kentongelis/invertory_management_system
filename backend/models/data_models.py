@@ -1,4 +1,4 @@
-from backend.flask import db
+from backend.server.extensions import db
 from sqlalchemy.orm import backref
 
 

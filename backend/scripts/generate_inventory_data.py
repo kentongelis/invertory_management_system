@@ -8,6 +8,10 @@ import json
 import random
 from datetime import datetime, timedelta
 import math
+import os
+
+BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
+os.makedirs(BASE_DIR, exist_ok=True)
 
 # Product categories and sample products
 PRODUCTS_DATA = [
@@ -241,13 +245,13 @@ def generate_products():
         )
 
     # Write CSV
-    with open("products.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "products.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=products[0].keys())
         writer.writeheader()
         writer.writerows(products)
 
     # Write JSON
-    with open("products.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "products.json"), "w") as f:
         json.dump(products, f, indent=2)
 
     return products
@@ -255,14 +259,12 @@ def generate_products():
 
 def generate_suppliers():
     """Generate suppliers data"""
-    # Write CSV
-    with open("suppliers.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "suppliers.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=SUPPLIERS[0].keys())
         writer.writeheader()
         writer.writerows(SUPPLIERS)
 
-    # Write JSON
-    with open("suppliers.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "suppliers.json"), "w") as f:
         json.dump(SUPPLIERS, f, indent=2)
 
     return SUPPLIERS
@@ -281,7 +283,6 @@ def generate_product_suppliers(products, suppliers):
 
     for product in products:
         primary_supplier = category_supplier_map.get(product["category"], 1)
-        # Some products have multiple suppliers
         if random.random() > 0.7:
             supplier_ids = [
                 primary_supplier,
@@ -303,14 +304,12 @@ def generate_product_suppliers(products, suppliers):
                 }
             )
 
-    # Write CSV
-    with open("product_suppliers.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "product_suppliers.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=product_suppliers[0].keys())
         writer.writeheader()
         writer.writerows(product_suppliers)
 
-    # Write JSON
-    with open("product_suppliers.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "product_suppliers.json"), "w") as f:
         json.dump(product_suppliers, f, indent=2)
 
     return product_suppliers
@@ -321,10 +320,8 @@ def generate_sales_data(products, days_back=730):
     sales = []
     start_date = datetime.now() - timedelta(days=days_back)
 
-    # Base demand patterns (some products sell more than others)
     base_demand = {}
     for product in products:
-        # Electronics and office supplies tend to sell more
         if product["category"] in ["Electronics", "Office Supplies"]:
             base_demand[product["product_id"]] = random.uniform(5, 20)
         elif product["category"] == "Furniture":
@@ -336,17 +333,15 @@ def generate_sales_data(products, days_back=730):
     transaction_id = 1
 
     while current_date <= datetime.now():
-        # More sales on weekdays
         is_weekday = current_date.weekday() < 5
         daily_transactions = (
             random.randint(10, 50) if is_weekday else random.randint(3, 15)
         )
 
-        # Seasonal adjustment (higher in Q4, lower in Q1)
         month = current_date.month
-        if month in [11, 12]:  # Holiday season
+        if month in [11, 12]:
             seasonal_multiplier = 1.5
-        elif month in [1, 2]:  # Slow season
+        elif month in [1, 2]:
             seasonal_multiplier = 0.7
         else:
             seasonal_multiplier = 1.0
@@ -355,17 +350,13 @@ def generate_sales_data(products, days_back=730):
             product = random.choice(products)
             product_id = product["product_id"]
 
-            # Calculate quantity with trend and seasonality
             base_qty = base_demand[product_id]
-            trend = 1 + (current_date - start_date).days / (
-                days_back * 2
-            )  # Slight upward trend
+            trend = 1 + (current_date - start_date).days / (days_back * 2)
             quantity = max(
                 1,
                 int(base_qty * trend * seasonal_multiplier * random.uniform(0.5, 1.5)),
             )
 
-            # Weekend effect
             if not is_weekday:
                 quantity = max(1, int(quantity * 0.6))
 
@@ -384,14 +375,12 @@ def generate_sales_data(products, days_back=730):
 
         current_date += timedelta(days=1)
 
-    # Write CSV
-    with open("sales.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "sales.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=sales[0].keys())
         writer.writeheader()
         writer.writerows(sales)
 
-    # Write JSON (sample - first 1000 records)
-    with open("sales.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "sales.json"), "w") as f:
         json.dump(sales[:1000], f, indent=2)
 
     print(f"Generated {len(sales)} sales records")
@@ -401,8 +390,6 @@ def generate_sales_data(products, days_back=730):
 def generate_current_inventory(products, sales):
     """Generate current inventory levels based on sales patterns"""
     inventory = []
-
-    # Calculate average monthly sales for each product
     from collections import defaultdict
 
     monthly_sales = defaultdict(lambda: defaultdict(int))
@@ -415,7 +402,6 @@ def generate_current_inventory(products, sales):
     for product in products:
         product_id = product["product_id"]
 
-        # Calculate average monthly demand
         if monthly_sales[product_id]:
             avg_monthly = sum(monthly_sales[product_id].values()) / len(
                 monthly_sales[product_id]
@@ -423,19 +409,11 @@ def generate_current_inventory(products, sales):
         else:
             avg_monthly = random.randint(10, 50)
 
-        # Current stock (some products low, some high)
         current_stock = random.randint(int(avg_monthly * 0.3), int(avg_monthly * 2))
-
-        # Reorder point (typically 1-2 months of average demand)
         reorder_point = max(10, int(avg_monthly * 1.5))
-
-        # Reorder quantity (typically 2-3 months of demand)
         reorder_quantity = max(20, int(avg_monthly * 2.5))
-
-        # Safety stock (typically 0.5-1 month of demand)
         safety_stock = max(5, int(avg_monthly * 0.75))
 
-        # Stock status
         if current_stock < safety_stock:
             status = "Critical"
         elif current_stock < reorder_point:
@@ -460,14 +438,12 @@ def generate_current_inventory(products, sales):
             }
         )
 
-    # Write CSV
-    with open("inventory.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "inventory.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=inventory[0].keys())
         writer.writeheader()
         writer.writerows(inventory)
 
-    # Write JSON
-    with open("inventory.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "inventory.json"), "w") as f:
         json.dump(inventory, f, indent=2)
 
     return inventory
@@ -487,14 +463,12 @@ def generate_daily_demand_summary(sales):
         for product_id, quantity in daily_demand[date].items():
             summary.append({"date": date, "product_id": product_id, "demand": quantity})
 
-    # Write CSV
-    with open("daily_demand.csv", "w", newline="") as f:
+    with open(os.path.join(BASE_DIR, "daily_demand.csv"), "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=summary[0].keys())
         writer.writeheader()
         writer.writerows(summary)
 
-    # Write JSON (sample)
-    with open("daily_demand.json", "w") as f:
+    with open(os.path.join(BASE_DIR, "daily_demand.json"), "w") as f:
         json.dump(summary[:1000], f, indent=2)
 
     print(f"Generated {len(summary)} daily demand records")
@@ -504,12 +478,9 @@ def generate_daily_demand_summary(sales):
 if __name__ == "__main__":
     print("Generating inventory data...")
 
-    # Change to data directory
-    import os
-
+    # Change to script directory (kept as-is)
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-    # Generate all data
     products = generate_products()
     print(f"Generated {len(products)} products")
 
@@ -519,7 +490,7 @@ if __name__ == "__main__":
     product_suppliers = generate_product_suppliers(products, suppliers)
     print(f"Generated {len(product_suppliers)} product-supplier relationships")
 
-    sales = generate_sales_data(products, days_back=730)  # 2 years of data
+    sales = generate_sales_data(products, days_back=730)
 
     inventory = generate_current_inventory(products, sales)
     print(f"Generated inventory levels for {len(inventory)} products")
