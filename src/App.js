@@ -1,18 +1,13 @@
 import './App.css';
 import { useState, useEffect } from 'react';
+import Table from './Table.js'
 
-function App() {
-  const [currentTime, setCurrentTime] = useState(0)
-
-  useEffect(() => {
-    fetch('/time').then(res => res.json()).then(data => {
-      setCurrentTime(data.time);
-    });
-  }, []);
+const App = () => {
+  const [currentTable, setCurrentTable] = useState("/inventory")
 
   return (
     <div className="App">
-      <p>The current time is {currentTime}.</p>
+      <Table data={currentTable} />
     </div>
   )
 }
