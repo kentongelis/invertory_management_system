@@ -18,6 +18,8 @@ def create_schema(given_model):
             model = given_model
             sqla_session = db.session
             load_instance = True
+            ordered = True
+            include_fk = True
 
     return GenericSchema
 

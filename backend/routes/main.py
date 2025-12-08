@@ -1,4 +1,5 @@
-from flask import Blueprint, jsonify
+from flask import Blueprint, Response
+import json
 from backend.models.data_models import *
 from backend.schemas.schemas import (
     products_schema,
@@ -8,17 +9,17 @@ from backend.schemas.schemas import (
     inventory_schema,
     daily_demand_schema,
 )
-import time
 
 main = Blueprint("main", __name__)
 
 
 def create_db_route(route, schema, model):
-    """Function that creates api route based off given handler and route name"""
-
     def handler():
-        """Handler function that returns a database query in JSON format"""
-        return jsonify(schema.dump(model.query.all()))
+        data = schema.dump(model.query.all())
+        return Response(
+            json.dumps(data, ensure_ascii=False, sort_keys=False),
+            mimetype="application/json",
+        )
 
     endpoint_name = route.strip("/").replace("/", "_") or "root"
     main.add_url_rule(route, view_func=handler, endpoint=endpoint_name)
