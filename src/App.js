@@ -2,6 +2,7 @@ import './App.css';
 import { useState } from 'react';
 import Table from './Table.js'
 import ButtonList from './ButtonList.js'
+import SQLSearch from './SQLSearch.js';
 
 const App = () => {
   const [currentTable, setCurrentTable] = useState("/products")
@@ -15,6 +16,7 @@ const App = () => {
         setCurrentName={setCurrentName}
       />
       <Table data={currentTable} name={currentName} />
+      <SQLSearch />
     </div>
   )
 }

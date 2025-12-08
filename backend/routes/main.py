@@ -1,4 +1,4 @@
-from flask import Blueprint, Response
+from flask import Blueprint, Response, request, jsonify
 import json
 from backend.models.data_models import *
 from backend.schemas.schemas import (
@@ -9,8 +9,17 @@ from backend.schemas.schemas import (
     inventory_schema,
     daily_demand_schema,
 )
+from backend.langchain.langchain import get_langchain_answer
 
 main = Blueprint("main", __name__)
+
+
+@main.route("/ask_db", methods=["POST"])
+def ask_db():
+    print(request.form)  # debug
+    question = request.form.get("question")
+    result = get_langchain_answer(question)
+    return jsonify({"result": result})
 
 
 def create_db_route(route, schema, model):

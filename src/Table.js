@@ -23,7 +23,7 @@ const Table = ({ data, name }) => {
     if (!rows || rows.length === 0) return [];
 
     return Object.keys(rows[0]).map(key => ({
-      name: key.charAt(0).toUpperCase() + key.slice(1),
+      name: key.charAt(0) + key.slice(1),
       selector: row => row[key],
       sortable: true,
     }));
