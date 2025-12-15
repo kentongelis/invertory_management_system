@@ -117,28 +117,25 @@ SECRET_KEY=your_secret_key
 3. **Generate sample data** (optional):
 
 ```bash
-cd backend/scripts
-python generate_inventory_data.py
+python backend/scripts/generate_inventory_data.py
 ```
 
 4. **Seed the database**:
 
 ```bash
-python jsonintodb.py
+python backend/scripts/jsonintodb.py
 ```
 
 5. **Run database migrations**:
 
 ```bash
-cd backend/server
 flask db upgrade
 ```
 
 6. **Generate sales forecasts** (optional):
 
 ```bash
-cd backend/scripts
-python futuresalesintodb.py
+python backend/scripts/futuresalesintodb.py
 ```
 
 This will use Prophet to generate 100-day sales forecasts for all products based on historical data.
@@ -146,8 +143,7 @@ This will use Prophet to generate 100-day sales forecasts for all products based
 7. **Run the Flask server**:
 
 ```bash
-cd backend/server
-flask run
+npm run start-api
 ```
 
 The backend will be available at `http://localhost:5001`
