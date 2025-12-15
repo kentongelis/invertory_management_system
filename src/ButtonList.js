@@ -39,6 +39,11 @@ const ButtonList = ({ setCurrentTable, setCurrentName }) => {
             name="Daily Demand"
             onClick={handleClick}
         />
+        <Button
+            url="/future_sales"
+            name="Future Sales"
+            onClick={handleClick}
+        />
         </div>
     )
 }

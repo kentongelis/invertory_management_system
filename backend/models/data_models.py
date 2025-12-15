@@ -82,3 +82,14 @@ class Daily_Demand(db.Model):
     demand = db.Column(db.Integer)
 
     product = db.relationship("Product", backref="daily_demand")
+
+
+class Future_Sales(db.Model):
+    __tablename__ = "future_sales"
+
+    id = db.Column(db.Integer, primary_key=True)
+    product_id = db.Column(db.Integer, db.ForeignKey("products.id"))
+    date = db.Column(db.String(50))
+    predicted_sales = db.Column(db.Float)
+
+    product = db.relationship("Product", backref="future_sales")

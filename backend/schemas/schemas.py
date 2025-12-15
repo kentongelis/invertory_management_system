@@ -6,6 +6,7 @@ from backend.models.data_models import (
     Sales,
     Inventory,
     Daily_Demand,
+    Future_Sales,
 )
 from marshmallow_sqlalchemy import SQLAlchemyAutoSchema
 
@@ -32,6 +33,7 @@ ProductSupplierSchema = create_schema(ProductSupplier)
 SalesSchema = create_schema(Sales)
 InventorySchema = create_schema(Inventory)
 DailyDemandSchema = create_schema(Daily_Demand)
+FutureSalesSchema = create_schema(Future_Sales)
 
 # Create lists of database instances
 
@@ -41,3 +43,4 @@ product_suppliers_schema = ProductSupplierSchema(many=True)
 sales_schema = SalesSchema(many=True)
 inventory_schema = InventorySchema(many=True)
 daily_demand_schema = DailyDemandSchema(many=True)
+future_sales_schema = FutureSalesSchema(many=True)

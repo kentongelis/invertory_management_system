@@ -14,6 +14,7 @@ This system provides a comprehensive inventory management solution with the foll
 ## Tech Stack
 
 ### Backend
+
 - **Flask**: Python web framework
 - **SQLAlchemy**: ORM for database management
 - **SQLite**: Database engine
@@ -22,6 +23,7 @@ This system provides a comprehensive inventory management solution with the foll
 - **Marshmallow**: Data serialization
 
 ### Frontend
+
 - **React**: UI framework
 - **react-data-table-component**: Interactive data tables
 
@@ -70,6 +72,7 @@ The system includes six main tables:
 ## Setup Instructions
 
 ### Prerequisites
+
 - Python 3.8+
 - Node.js 14+
 - OpenAI API key
@@ -77,19 +80,22 @@ The system includes six main tables:
 ### Backend Setup
 
 1. **Install Python dependencies**:
+
 ```bash
 cd backend/server
 pip install -r requirements.txt
 ```
 
 2. **Configure environment variables**:
-   
+
    Create or update `backend/langchain/.env`:
+
 ```
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-   Update `backend/server/.env` if needed:
+Update `backend/server/.env` if needed:
+
 ```
 FLASK_APP=app.py
 FLASK_ENV=development
@@ -97,32 +103,37 @@ SECRET_KEY=your_secret_key
 ```
 
 3. **Generate sample data** (optional):
+
 ```bash
 cd backend/scripts
 python generate_inventory_data.py
 ```
 
 4. **Seed the database**:
+
 ```bash
 python jsonintodb.py
 ```
 
 5. **Run the Flask server**:
+
 ```bash
 cd backend/server
 flask run
 ```
 
-The backend will be available at `http://localhost:5000`
+The backend will be available at `http://localhost:5001`
 
 ### Frontend Setup
 
 1. **Install Node dependencies**:
+
 ```bash
 npm install
 ```
 
 2. **Start the React development server**:
+
 ```bash
 npm start
 ```
@@ -132,14 +143,17 @@ The frontend will be available at `http://localhost:3000`
 ## Usage
 
 ### Viewing Data
+
 - Use the navigation buttons to switch between different tables (Products, Suppliers, Sales, etc.)
 - Use the search box to filter table data in real-time
 - Click column headers to sort data
 
 ### Natural Language Queries
+
 The AI-powered search feature allows you to ask questions in plain English:
 
 **Example queries**:
+
 - "What is the current stock of Wireless Mouse?"
 - "Show me all products with low inventory status"
 - "What are the total sales for each product?"
@@ -147,6 +161,7 @@ The AI-powered search feature allows you to ask questions in plain English:
 - "List suppliers for Electronics category"
 
 The system will:
+
 1. Convert your question to SQL
 2. Execute the query
 3. Return a natural language answer
@@ -174,12 +189,14 @@ The included data generator (`generate_inventory_data.py`) creates realistic sam
 ## LangChain Integration
 
 The system uses LangChain to:
+
 - Parse natural language questions
 - Generate appropriate SQL queries with JOINs when needed
 - Execute queries against the SQLite database
 - Format results into natural language responses
 
 The LangChain agent understands:
+
 - Table relationships and foreign keys
 - Common business terminology
 - Multi-table queries requiring JOINs
@@ -197,6 +214,7 @@ The LangChain agent understands:
 ## Future Enhancements
 
 Potential improvements:
+
 - User authentication and authorization
 - Real-time inventory updates
 - Automated reordering system

@@ -8,6 +8,7 @@ from backend.schemas.schemas import (
     sales_schema,
     inventory_schema,
     daily_demand_schema,
+    future_sales_schema,
 )
 from backend.langchain.langchain import get_langchain_answer
 
@@ -16,7 +17,6 @@ main = Blueprint("main", __name__)
 
 @main.route("/ask_db", methods=["POST"])
 def ask_db():
-    print(request.form)  # debug
     question = request.form.get("question")
     result = get_langchain_answer(question)
     return jsonify({"result": result})
@@ -40,3 +40,4 @@ create_db_route("/product_suppliers", product_suppliers_schema, ProductSupplier)
 create_db_route("/sales", sales_schema, Sales)
 create_db_route("/inventory", inventory_schema, Inventory)
 create_db_route("/daily_demand", daily_demand_schema, Daily_Demand)
+create_db_route("/future_sales", future_sales_schema, Future_Sales)

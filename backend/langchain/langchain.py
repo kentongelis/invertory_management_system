@@ -13,11 +13,11 @@ DB_PATH = os.path.abspath(os.path.join(BASE_DIR, "..", "server", "inventory.db")
 
 load_dotenv()
 
+db = SQLDatabase.from_uri(f"sqlite:///{DB_PATH}")
+llm = ChatOpenAI(model="gpt-4o-mini")
+
 
 def get_langchain_answer(question):
-    db = SQLDatabase.from_uri(f"sqlite:///{DB_PATH}")
-    llm = ChatOpenAI(model="gpt-4o-mini")
-
     sql_prompt = PromptTemplate.from_template(
         """
     You are an expert SQLite query generator.
