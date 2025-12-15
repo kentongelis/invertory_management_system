@@ -1,5 +1,5 @@
 from flask import Flask
-from backend.server.extensions import db, cors, ma
+from backend.server.extensions import db, cors, ma, migrate
 from backend.server.config import Config
 from backend.routes.main import main
 
@@ -10,10 +10,8 @@ app.config.from_object(Config)
 db.init_app(app)
 cors.init_app(app)
 ma.init_app(app)
+migrate.init_app(app, db, directory="backend/migrations")
 
-from backend.models import data_models
-
-with app.app_context():
-    db.create_all()
+import backend.models.data_models
 
 app.register_blueprint(main)

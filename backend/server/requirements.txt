@@ -1,6 +1,7 @@
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.2
 aiosignal==1.4.0
+alembic==1.17.2
 annotated-types==0.7.0
 anyio==4.12.0
 appdirs==1.4.4
@@ -34,6 +35,7 @@ filelock==3.20.0
 Flask==3.1.2
 flask-cors==6.0.1
 flask-marshmallow==1.3.0
+Flask-Migrate==4.1.0
 Flask-SQLAlchemy==3.1.1
 flatbuffers==25.9.23
 fonttools==4.60.1
@@ -82,6 +84,7 @@ langgraph-checkpoint==3.0.1
 langgraph-prebuilt==1.0.5
 langgraph-sdk==0.2.12
 langsmith==0.4.50
+Mako==1.3.10
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 marshmallow==3.26.1
