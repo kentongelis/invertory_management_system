@@ -223,8 +223,7 @@ The system uses Facebook Prophet to generate sales forecasts:
 ### Running Forecasts
 
 ```bash
-cd backend/scripts
-python futuresalesintodb.py
+python backend/scripts/futuresalesintodb.py
 ```
 
 The forecast data is stored in the `future_sales` table and can be:
