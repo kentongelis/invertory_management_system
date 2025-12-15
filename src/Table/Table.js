@@ -1,3 +1,4 @@
+import './Table.css'
 import { useState, useEffect } from 'react';
 import DataTable from 'react-data-table-component';
 
@@ -44,10 +45,17 @@ const Table = ({ data, name }) => {
   };
 
   return (
-    <div className="App">
+    <div className="table-container">
       <h1>{name}</h1>
-      {error && <p style={{ color: 'red' }}>{error}</p>}
-      <div><input type='text' placeholder="Search..." onChange={handleFilter} /></div>
+      {error && <p className="table-error">{error}</p>}
+      <div>
+        <input 
+          type='text' 
+          className="table-search-input"
+          placeholder="Search..." 
+          onChange={handleFilter} 
+        />
+      </div>
       <DataTable 
         columns={columns}
         data={records}

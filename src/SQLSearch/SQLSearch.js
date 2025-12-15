@@ -1,3 +1,4 @@
+import './SQLSearch.css'
 import { useState } from 'react';
 
 const SQLSearch = () => {
@@ -34,28 +35,29 @@ const SQLSearch = () => {
     }
 
     return (
-        <div>
-            <form onSubmit={handleSubmit}>
-                <label>
-                    Question
-                </label>
-                <input
-                    id="question"
-                    type="text"
-                    value={question}
-                    onChange={handleQuestionChange}
-                    placeholder="Ask your question here"
-                >
-                </input>
-                <button
-                    type="submit"
-                >
-                    Submit
-                </button>
-            </form>
-            {error && <p style={{ color: "red" }}>{error}</p>}
-            {result && <p>Result: {result}</p>}
-        </div>
+    <div className="sql-search-container">
+      <form className="sql-search-form" onSubmit={handleSubmit}>
+        <label className="sql-search-label">
+          Question
+        </label>
+        <input
+          id="question"
+          type="text"
+          className="sql-search-input"
+          value={question}
+          onChange={handleQuestionChange}
+          placeholder="Ask your question here"
+        />
+        <button
+          type="submit"
+          className="sql-submit-button"
+        >
+          Submit
+        </button>
+      </form>
+      {error && <p className="sql-error">{error}</p>}
+      {result && <p className="sql-result"><strong>Result:</strong> {result}</p>}
+    </div>
     )
 }
 

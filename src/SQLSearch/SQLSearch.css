@@ -1,0 +1,104 @@
+.sql-search-container {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+}
+
+.sql-search-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sql-search-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 4px;
+}
+
+.sql-search-input {
+  width: 100%;
+  padding: 12px 16px;
+  font-size: 14px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sql-search-input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.sql-search-input::placeholder {
+  color: #9ca3af;
+}
+
+.sql-submit-button {
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  align-self: flex-start;
+}
+
+.sql-submit-button:hover {
+  background-color: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(59, 130, 246, 0.3);
+}
+
+.sql-submit-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(59, 130, 246, 0.3);
+}
+
+.sql-submit-button:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+.sql-error {
+  color: #ef4444;
+  font-size: 14px;
+  padding: 12px;
+  background-color: #fef2f2;
+  border-left: 4px solid #ef4444;
+  border-radius: 4px;
+  margin-top: 12px;
+}
+
+.sql-result {
+  font-size: 14px;
+  color: #1f2937;
+  padding: 16px;
+  background-color: #f9fafb;
+  border-left: 4px solid #10b981;
+  border-radius: 4px;
+  margin-top: 12px;
+  font-family: 'Courier New', monospace;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.sql-result strong {
+  color: #059669;
+}
+
+@media (max-width: 768px) {
+  .sql-search-container {
+    padding: 16px;
+  }
+
+  .sql-submit-button {
+    width: 100%;
+  }
+}

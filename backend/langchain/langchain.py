@@ -74,5 +74,4 @@ def get_langchain_answer(question):
 
     result = chain.invoke({"question": question})
 
-    print(result)
     return result

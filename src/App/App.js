@@ -1,8 +1,8 @@
 import './App.css';
 import { useState } from 'react';
-import Table from './Table.js'
-import ButtonList from './ButtonList.js'
-import SQLSearch from './SQLSearch.js';
+import Table from '../Table/Table.js'
+import ButtonList from '../ButtonList/ButtonList.js'
+import SQLSearch from '../SQLSearch/SQLSearch.js';
 
 const App = () => {
   const [currentTable, setCurrentTable] = useState("/products")

@@ -1,4 +1,5 @@
-import Button from './Button.js'
+import './ButtonList.css';
+import Button from '../Button/Button.js'
 
 const ButtonList = ({ setCurrentTable, setCurrentName }) => {
 
@@ -8,7 +9,7 @@ const ButtonList = ({ setCurrentTable, setCurrentName }) => {
     }
 
     return (
-        <div>
+        <div className="button-list-container">
         <Button 
             url="/products"
             name="Products"

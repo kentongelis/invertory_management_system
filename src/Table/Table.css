@@ -1,0 +1,102 @@
+.table-container {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.table-container h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #1f2937;
+  margin-bottom: 20px;
+}
+
+.table-search-input {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px 16px;
+  font-size: 14px;
+  border: 1px solid #e5e7eb;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.table-search-input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.table-search-input::placeholder {
+  color: #9ca3af;
+}
+
+.table-error {
+  color: #ef4444;
+  font-size: 14px;
+  margin-bottom: 12px;
+  padding: 12px;
+  background-color: #fef2f2;
+  border-left: 4px solid #ef4444;
+  border-radius: 4px;
+}
+
+/* react-data-table-component customization */
+.rdt_Table {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.rdt_TableHead {
+  background-color: #f9fafb;
+  font-weight: 600;
+  color: #374151;
+}
+
+.rdt_TableHeadRow {
+  border-bottom: 2px solid #e5e7eb;
+  min-height: 48px;
+}
+
+.rdt_TableRow {
+  border-bottom: 1px solid #f3f4f6;
+  transition: background-color 0.15s ease;
+}
+
+.rdt_TableRow:hover {
+  background-color: #f9fafb;
+}
+
+.rdt_TableCol {
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.rdt_TableCell {
+  font-size: 14px;
+  color: #1f2937;
+}
+
+.rdt_Pagination {
+  border-top: 1px solid #e5e7eb;
+  padding: 16px 0;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+@media (max-width: 768px) {
+  .table-container {
+    padding: 16px;
+  }
+
+  .table-container h1 {
+    font-size: 20px;
+  }
+
+  .table-search-input {
+    max-width: 100%;
+  }
+}
